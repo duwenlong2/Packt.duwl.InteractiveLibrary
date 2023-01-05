@@ -7,7 +7,12 @@
   <PackageVersion>1.0.0.0</PackageVersion>
   <Authors>Duwenlong</Authors>
   <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
-  <PackageProjectUrl></PackageProjectUrl>
+  <PackageProjectUrl>https://github.com/duwenlong2/Packt.duwl.InteractiveLibrary</PackageProjectUrl>
+  <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  <PackageReleaseNotes>Example packaged for Nuget.</PackageReleaseNotes>
+  <Description>current Interactive Library that can write code at any time without VS</Description>
+  <Copyright>Copyright . 2023 Packt Publishing Limited</Copyright>
+  <PackageTags>using Packt.duwl.Interactive Library</PackageTags>
   </PropertyGroup>
 
 </Project>
