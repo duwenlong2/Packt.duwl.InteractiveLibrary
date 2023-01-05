@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  <PackageId>Packt.duwl.InteractiveLibrary</PackageId>
+  <PackageVersion>1.0.0.0</PackageVersion>
+  <Authors>Duwenlong</Authors>
+  <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+  <PackageProjectUrl></PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
